@@ -1,0 +1,87 @@
+■なぜ学ぶ
+svcoのフォーマットに当てはめれば、すべての英語を読めるようになるため。
+難しい英語を見た時の分析ツールとして使う。
+英語のすべての文章はsvocの形に当てはまる。
+なので、理論上はすべての文章を読めるようになる。
+
+■使い方
+パターンに当てはめて、パターン通りに訳すと意味を理解できる。
+どんなに難しい文章も、分析すればsvocのパターンに当てはまる。
+
+■学習順序
+1.TOEICなどの難しい文章をsvocで分析して、役立つことを実感する
+2.svocのパターンを覚える
+3.svocのパターンの訳し方を覚える
+4.svocで分析して、使い方に慣れる
+
+■分析例
+That that that that teacher said is wrong.
+
+■解析結果
+[That that][that that teacher said][is][wrong].
+[s][m][v][c]
+
+■練習方法
+難しい英語の文章を見つけたら、svocmを割り当ててみる。
+
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+■ 以下、暗記するルール
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+
+■svの訳し方
+sはvする
+
+I run.
+私は走る。
+
+■svcの訳し方
+sはcにvする
+※s=cが成り立つ
+
+He became a teahcer.
+彼は先生になった。
+
+■svoの訳し方
+sはoをvする
+
+He reads books.
+彼は本を読む。
+
+■svooの訳し方
+sはoにoをvする
+
+He gave her a book.
+彼は彼女に本をあげた。
+
+■svocの訳し方
+sはo=cであることをvする
+
+She always keep her room clean.
+彼女は、彼女を部屋をきれいに、保つ
+
+■sになるもの
+名詞(物の名前)
+
+■vになるもの
+動詞(~する = u音で終わるやつ)
+
+■oになるもの
+名詞(物の名前)
+
+■cになるもの
+形容詞(~な or ~い = きれいな、おおきい = 様子を表す言葉)
+
+■mになるもの
+svocに入らなければすべてm
+mは補助パーツ、情報の補足。
+最悪なくても文章は理解できる。
+※mはどこにでも自由に入ることができる。
+msvm = today i went to library.
+smvo	= i always study english.
+svmm	= i go to work every day.
+※svocは5パターンの場所のみ可能
+sv
+svc
+svo
+svoo
+svoc
